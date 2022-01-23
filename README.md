@@ -12,7 +12,7 @@
 ##
 
 - 🔭 I’m currently working with automated bots
-- 🌱 I’m currently learning UI/UX Design
+- 🌱 I’m currently learning Prisma.io
 
 <div>
   <a href="https://github.com/mpvinnie">
