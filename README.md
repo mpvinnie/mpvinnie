@@ -7,6 +7,7 @@
   <img align="center" alt="vinnie-reactjs" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" />
   <img align="center" alt="vinnie-reactNative" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" />
   <img align="center" alt="vinnie-nextjs" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg" />
+  <img align="center" alt="vinnie-nestjs" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/1663679627579.svg" />
 <div>
   
 ##
